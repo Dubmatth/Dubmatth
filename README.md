@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Matthieu !
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Développeur+Full+Stack;Passionné+de+technologie;Basé+en+Belgique+🇧🇪;Toujours+en+apprentissage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+de+technologie;Bas%C3%A9+en+Belgique+%F0%9F%87%A7%F0%9F%87%AA;Toujours+en+apprentissage" alt="Typing SVG" />
 </div>
 
 <div align="center">
