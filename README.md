@@ -16,7 +16,7 @@ Je suis un développeur Full Stack passionné basé en Belgique 🇧🇪. J'aime
 
 - 🔭 **Actuellement** : Côté perso, je travaille sur des projets React, React-Native et Node.js, côté pro, je travaille sur React (Spfx) et C# .NET
 - 🌱 **J'apprends** : Continuellement les dernières technologies du web
-- 💬 **Expertise** : JavaScript, React, Node.js, C#
+- 💬 **Expertise** : TypeScript, React, Node.js, C#
 - 📫 **Contact** : dubois.matthieu@live.be
 - ⚡ **Fun fact** : J'adore résoudre des problèmes complexes avec des solutions élégantes
 
