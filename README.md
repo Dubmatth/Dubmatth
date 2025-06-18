@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+de+technologie;Bas%C3%A9+en+Belgique+%F0%9F%87%A7%F0%9F%87%AA;Toujours+en+apprentissage" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dubmatth&label=Visiteurs%20du%20profil&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
 ---
 
 ## 🚀 À propos de moi
@@ -80,14 +76,7 @@ Mon site portfolio personnel hébergé sur GitHub Pages.
 
 ---
 
-## 💼 Expérience
-
-**Développeur SharePoint Full Stack** - Intermade _(02/2019 - 06/2021)_
-
-- Développement d'applications web modernes (React, Spfx, NodeJs, C#)
-- Réalisation de reportings via SSRS
-- Architecture et optimisation de bases de données
-- Collaboration en équipe agile
+## 💼 Expériences
 
 **Développeur SharePoint Full Stack** - CAMCA _(06/2021 - Present)_
 
@@ -96,9 +85,16 @@ Mon site portfolio personnel hébergé sur GitHub Pages.
 - Architecture et optimisation de bases de données
 - Collaboration en équipe agile
 
+**Développeur SharePoint Full Stack** - Intermade _(02/2019 - 06/2021)_
+
+- Développement d'applications web modernes (React, Spfx, NodeJs, C#)
+- Réalisation de reportings via SSRS
+- Architecture et optimisation de bases de données
+- Collaboration en équipe agile
+
 ---
 
-## 🎓 Certifications & Formation
+## 🎓 Certifications & Formations
 
 - **C# avancé** - Développement .NET
 - **SPFX avancé** - Développement TypeScript, React
