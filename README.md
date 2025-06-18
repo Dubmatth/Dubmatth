@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Matthieu !
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+de+technologies;Bas%C3%A9+en+Belgique+%F0%9F%87%A7%F0%9F%87%AA;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1E1E1E00&width=600&lines=Hello,+je+suis+Matthieu+Dubois;Développeur+Full‑Stack;Frontend:+React+%7C+TypeScript;Backend:+Node.js+%7C+C%23;SPFx+|+Microsoft+365;Basé+en+Belgique" />
 </div>
 
 ---
