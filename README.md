@@ -72,7 +72,7 @@ Une application React avancée démontrant les concepts modernes et les meilleur
 Mon site portfolio personnel hébergé sur GitHub Pages.
 
 **Tech Stack :** HTML, CSS, JavaScript  
-**Live Demo :** [dubmatth.github.io](https://dubmatth.github.io/Portfolio_React)
+**Live Demo :** [www.matthieudubois.dev](https://dubmatth.github.io/Portfolio_React)
 
 ---
 
