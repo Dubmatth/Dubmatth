@@ -80,14 +80,14 @@ Mon site portfolio personnel hébergé sur GitHub Pages.
 
 **Développeur SharePoint Full Stack** - CAMCA _(06/2021 - Present)_
 
-- Développement d'applications web modernes (React, Spfx, C#)
+- Développement d'applications web (React, Spfx, C#)
 - Réalisation de reportings via SSRS
 - Architecture et optimisation de bases de données
 - Collaboration en équipe agile
 
 **Développeur SharePoint Full Stack** - Intermade _(02/2019 - 06/2021)_
 
-- Développement d'applications web modernes (React, Spfx, NodeJs, C#)
+- Développement d'applications web (React, Spfx, NodeJs, C#)
 - Réalisation de reportings via SSRS
 - Architecture et optimisation de bases de données
 - Collaboration en équipe agile
