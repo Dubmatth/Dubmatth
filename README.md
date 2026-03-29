@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Matthieu !
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1E1E1E00&width=600&lines=Hello,+je+suis+Matthieu+Dubois;Développeur+Full‑Stack;Frontend:+React+%7C+TypeScript;Backend:+Node.js+%7C+C%23;SPFx+|+Microsoft+365;Basé+en+Belgique" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1E1E1E00&width=600&lines=Hello,+je+suis+Matthieu+Dubois;Développeur+Full‑Stack;Frontend:+React+%7C+TypeScript;Backend:+Node.js+%7C+C%23;SPFx+|+Microsoft+365;Basé+en+Belgique](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1E1E1E&width=600&lines=Hello,+je+suis+Matthieu+Dubois;D%C3%A9veloppeur+Full-Stack;Frontend:+React+%7C+TypeScript;Backend:+Node.js+%7C+C%23;SPFx+%7C+Microsoft+365;Bas%C3%A9+en+Belgique)" />
 </div>
 
 ---
